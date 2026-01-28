@@ -1,0 +1,187 @@
+2026-01-22 15:26:20,827 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 15:26:20,827 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 15:32:20,772 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 15:32:22,727 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 15:32:22,728 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 15:32:30,921 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /users
+2026-01-22 15:32:30,923 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.003s
+2026-01-22 15:32:44,779 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /users
+2026-01-22 15:32:44,780 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-22 15:33:05,560 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /docs
+2026-01-22 15:33:05,561 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-22 15:33:06,486 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /openapi.json
+2026-01-22 15:33:06,508 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.022s
+2026-01-22 15:33:16,169 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/users
+2026-01-22 15:33:16,171 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-22 15:36:12,476 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /docs
+2026-01-22 15:36:12,479 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.003s
+2026-01-22 15:36:12,490 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /openapi.json
+2026-01-22 15:36:12,492 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-22 15:38:27,428 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 15:38:27,836 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 15:38:27,837 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 15:38:30,366 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 15:38:30,680 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 15:38:30,680 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 15:38:32,095 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 15:38:32,392 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 15:38:32,393 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 15:39:00,070 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /docs
+2026-01-22 15:39:00,071 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-22 15:39:00,096 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /openapi.json
+2026-01-22 15:39:00,113 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.017s
+2026-01-22 15:39:16,180 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /docs
+2026-01-22 15:39:16,182 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-22 15:39:16,517 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /openapi.json
+2026-01-22 15:39:16,521 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.004s
+2026-01-22 15:40:16,423 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 15:40:16,806 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 15:40:16,806 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 16:21:05,028 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 16:21:05,500 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 16:21:05,501 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 16:21:09,035 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 16:21:09,345 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 16:21:09,345 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 16:21:57,821 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 16:21:58,252 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 16:21:58,254 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 16:22:01,184 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 16:22:01,477 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 16:22:01,477 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 16:22:30,055 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 16:22:30,406 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 16:22:30,407 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 16:22:33,639 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 16:22:33,935 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 16:22:33,935 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 16:22:45,449 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-22 16:22:52,924 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-22 16:22:52,925 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-22 16:23:26,750 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /docs
+2026-01-22 16:23:26,751 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-22 16:23:26,776 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - GET /openapi.json
+2026-01-22 16:23:26,785 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.009s
+2026-01-22 16:23:55,680 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-22 16:23:55,682 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-23 10:45:08,575 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-23 10:45:19,196 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-23 10:45:19,197 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-23 10:47:44,148 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-23 10:47:45,659 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-23 10:47:45,659 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-23 10:47:46,974 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-23 10:48:15,562 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-23 10:48:15,563 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-23 10:48:19,912 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-23 10:48:20,310 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-23 10:48:20,310 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 09:18:57,696 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 09:18:57,696 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 09:19:08,124 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 09:19:08,126 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 09:19:17,068 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 09:19:17,070 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 10:42:17,140 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - OPTIONS /api/v1/chat
+2026-01-26 10:42:17,145 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.005s
+2026-01-26 10:42:17,149 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 10:42:17,151 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 10:42:55,589 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 10:42:55,590 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 10:44:33,689 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 10:44:34,098 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 10:44:34,098 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 10:45:13,299 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 10:45:13,627 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 10:45:13,627 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 10:45:48,167 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 10:45:48,525 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 10:45:48,525 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 10:46:25,285 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 10:46:25,625 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 10:46:25,626 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 10:46:42,273 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 10:46:42,275 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 10:53:26,407 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - OPTIONS /api/v1/chat
+2026-01-26 10:53:26,408 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 10:53:26,409 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 10:53:26,410 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 10:53:38,775 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 10:53:38,777 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 10:54:50,013 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 10:54:50,015 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 10:55:47,361 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 10:55:47,362 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 10:56:04,263 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 10:56:04,265 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 10:56:08,283 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 10:56:08,285 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:07:47,526 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - OPTIONS /api/v1/chat
+2026-01-26 11:07:47,527 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.000s
+2026-01-26 11:07:47,528 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:07:47,529 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:08:33,627 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:08:33,629 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 11:10:19,374 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:10:19,376 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:12:22,057 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:12:22,059 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 11:12:26,954 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:12:26,956 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 11:15:14,351 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:15:14,352 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:16:05,801 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:16:05,802 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:16:26,619 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:16:26,621 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 11:18:13,903 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - OPTIONS /api/v1/chat
+2026-01-26 11:18:13,903 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.000s
+2026-01-26 11:18:13,904 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:18:13,905 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:19:15,321 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 11:19:15,738 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 11:19:15,738 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 11:19:42,403 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 11:19:42,715 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 11:19:42,716 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 11:20:08,265 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 11:20:08,563 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 11:20:08,563 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 11:20:24,214 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 11:20:24,525 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 11:20:24,525 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 11:20:55,931 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 11:20:56,243 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 11:20:56,243 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 11:21:16,055 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:21:16,056 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:22:05,819 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
+2026-01-26 11:22:06,174 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:53 - 应用启动中...
+2026-01-26 11:22:06,175 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:55 - 数据库初始化完成
+2026-01-26 11:22:45,512 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:22:45,514 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 11:26:10,910 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:26:10,911 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:27:22,329 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:27:22,331 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.002s
+2026-01-26 11:29:11,447 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - OPTIONS /api/v1/chat
+2026-01-26 11:29:11,447 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:29:11,449 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:29:11,450 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:29:33,442 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:29:33,443 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:30:02,533 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:30:02,534 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:30:16,180 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:30:16,181 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-26 11:49:43,721 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - OPTIONS /api/v1/chat
+2026-01-26 11:49:43,723 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.003s
+2026-01-26 11:49:43,725 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 11:49:43,728 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.003s
+2026-01-26 14:55:32,552 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - OPTIONS /api/v1/chat
+2026-01-26 14:55:32,555 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.003s
+2026-01-26 14:55:32,558 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 14:55:32,564 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.007s
+2026-01-26 14:55:49,071 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:33 - POST /api/v1/chat
+2026-01-26 14:55:49,072 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:36 - 请求完成，耗时: 0.001s
+2026-01-27 16:15:53,987 - app - INFO - /Users/wang/workNotes/python/my-first-backend/main.py:59 - 应用关闭中...
